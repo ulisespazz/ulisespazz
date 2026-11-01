@@ -7,12 +7,10 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
-🎓 **Estudiante avanzado** de la Licenciatura en Informática y la Tecnicatura Universitaria en Tecnologías Web en la Universidad Nacional del Oeste (3° año en curso).
-💻 Como **Desarrollador Full Stack**, cuento con formación en análisis, programación y gestión de información, con sólidos conocimientos en bases de datos y desarrollo de software.
-🚀 Desarrollo proyectos académicos y personales aplicando programación orientada a objetos, bases de datos y desarrollo web, escalando estas bases con la implementación de Web Services y APIs REST.
-🧠 Me destaco por mi capacidad de análisis, resolución de problemas y rápida adaptación a nuevos entornos.
-🎯 Busco incorporarme a una organización donde pueda aportar mis conocimientos técnicos y organizativos para continuar desarrollándome profesionalmente.
-🗣️ **Idiomas:** Español (Nativo) | Inglés (Básico).
+🎓 **Estudiante avanzado** de Informática y Tecnologías Web en la UNO (3° año).
+💻 **Desarrollador Full Stack** enfocado en crear aplicaciones eficientes integrando bases de datos, APIs REST y Web Services. 
+🚀 Me gusta resolver problemas complejos y me adapto rápido a nuevas tecnologías del ecosistema web.
+🎯 **En búsqueda activa** de nuevos desafíos profesionales en el sector IT para aportar valor y seguir creciendo.
 
 <details>
 <summary><b>⚙️ &nbsp;Estadísticas de GitHub</b></summary>
