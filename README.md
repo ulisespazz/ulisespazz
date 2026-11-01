@@ -2,17 +2,17 @@
   <h2> 
     ¡Hola! Soy Ulises Paz 👋
   </h2>
+  <p>Desarrollador Full Stack | Estudiante Avanzado de Informática</p>
 </div>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
-Soy estudiante avanzado de Informática y Desarrollo Web 👨‍🎓
-
-🌱 Actualmente aprendiendo y profundizando en Ingeniería de Software, Algoritmos y Redes.\
-📦 Desarrollando proyectos académicos con Programación Orientada a Objetos y Bases de Datos.\
-💡 Me gusta expandir mis conocimientos y explorar nuevas tecnologías y paradigmas.\
-🎮 En mi tiempo libre, me interesa el diseño gráfico y aplicar la lógica al desarrollo visual.\
-🧉 Vengo de Argentina 🇦🇷
+🎓 **Estudiante avanzado** de la Licenciatura en Informática y la Tecnicatura Universitaria en Tecnologías Web en la Universidad Nacional del Oeste (3° año en curso)[cite: 2].
+💻 Como **Desarrollador Full Stack**, cuento con formación en análisis, programación y gestión de información, con sólidos conocimientos en bases de datos y desarrollo de software[cite: 2].
+🚀 Desarrollo proyectos académicos y personales aplicando programación orientada a objetos, bases de datos y desarrollo web[cite: 2], escalando estas bases con la implementación de Web Services y APIs REST[cite: 2].
+🧠 Me destaco por mi capacidad de análisis, resolución de problemas y rápida adaptación a nuevos entornos[cite: 2].
+🎯 Busco incorporarme a una organización donde pueda aportar mis conocimientos técnicos y organizativos para continuar desarrollándome profesionalmente[cite: 2].
+🗣️ **Idiomas:** Español (Nativo) | Inglés (Básico)[cite: 2].
 
 <details>
 <summary><b>⚙️ &nbsp;Estadísticas de GitHub</b></summary>
@@ -30,24 +30,26 @@ Soy estudiante avanzado de Informática y Desarrollo Web 👨‍🎓
 </p>
 </details>
 
-### 🛠 &nbsp;Stack Tecnológico
-
-Tecnologías que fui aprendiendo a lo largo de mi formación académica y proyectos personales.
+### 🛠 &nbsp;Stack Tecnológico y Herramientas
 
 #### 🌐 Lenguajes: <br />
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🛠 Frameworks y Herramientas: <br />
+#### 💻 Tecnologías y Frameworks: <br />
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+#### 🗄️ Bases de Datos y Herramientas: <br />
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
